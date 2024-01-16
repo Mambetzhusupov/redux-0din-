@@ -1,0 +1,36 @@
+.counter{
+    background-color: forestgreen;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.btn{
+    background-color:palegoldenrod;
+    width: 70px;
+    height: 55px;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: palegreen;
+
+
+}
+
+.result{
+    background-color: cornflowerblue;
+    width: 60px;
+    height: 45px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: cyan;
+    border: none;
+    transition: 0.8s;
+    border-radius: 200px;
+
+}
